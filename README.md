@@ -29,6 +29,12 @@ jam, atau keacakan.
 - `main.ts` — bot (protokol bars-replay v1, stdin/stdout NDJSON).
 - `README.md` — dokumen ini.
 
+## Verifikasi
+
+- grade-local (dev): net_pnl 14224840 quote units (+$14,22), 5 trades,
+  compliant true.
+- Repo: https://github.com/burnokew-oss/btc-1444-v15d
+
 ## Lisensi
 
 MIT
